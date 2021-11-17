@@ -1,3 +1,4 @@
 {
-  "packages": ["./packages/gqless"]
+  "packages": ["./packages/gqless"],
+  "node": "14"
 }
